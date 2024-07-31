@@ -1,3 +1,5 @@
+This project is now archived and read-only
+
 # timemory
 
 ## Timing + Memory + Hardware Counter Utilities for C / C++ / CUDA / Python
